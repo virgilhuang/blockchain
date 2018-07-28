@@ -1,5 +1,4 @@
-# blockchain
-区块链知识
+# Blockchain 区块链知识
 
 # 去中心化交易所 
 ## 交易所业务知识
